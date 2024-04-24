@@ -82,12 +82,12 @@ public class ReportsDwr extends BaseDwr {
     }
 
     public DwrResponseI18n saveReport(int id, String name, List<ReportPointVO> points, int includeEvents,
-            boolean includeUserComments, int dateRangeType, int relativeDateType, int previousPeriodCount,
-            int previousPeriodType, int pastPeriodCount, int pastPeriodType, boolean fromNone, int fromYear,
-            int fromMonth, int fromDay, int fromHour, int fromMinute, boolean toNone, int toYear, int toMonth,
-            int toDay, int toHour, int toMinute, boolean schedule, int schedulePeriod, int runDelayMinutes,
-            String scheduleCron, boolean email, boolean includeData, boolean zipData,
-            List<RecipientListEntryBean> recipients) {
+                                      boolean includeUserComments, int dateRangeType, int relativeDateType, int previousPeriodCount,
+                                      int previousPeriodType, int pastPeriodCount, int pastPeriodType, boolean fromNone, int fromYear,
+                                      int fromMonth, int fromDay, int fromHour, int fromMinute, boolean toNone, int toYear, int toMonth,
+                                      int toDay, int toHour, int toMinute, boolean schedule, int schedulePeriod, int runDelayMinutes,
+                                      String scheduleCron, boolean email, boolean includeData, boolean zipData,
+                                      List<RecipientListEntryBean> recipients) {
 
         DwrResponseI18n response = new DwrResponseI18n();
 
@@ -174,11 +174,11 @@ public class ReportsDwr extends BaseDwr {
     }
 
     public DwrResponseI18n runReport(String name, List<ReportPointVO> points, int includeEvents,
-            boolean includeUserComments, int dateRangeType, int relativeDateType, int previousPeriodCount,
-            int previousPeriodType, int pastPeriodCount, int pastPeriodType, boolean fromNone, int fromYear,
-            int fromMonth, int fromDay, int fromHour, int fromMinute, boolean toNone, int toYear, int toMonth,
-            int toDay, int toHour, int toMinute, boolean email, boolean includeData, boolean zipData,
-            List<RecipientListEntryBean> recipients) {
+                                     boolean includeUserComments, int dateRangeType, int relativeDateType, int previousPeriodCount,
+                                     int previousPeriodType, int pastPeriodCount, int pastPeriodType, boolean fromNone, int fromYear,
+                                     int fromMonth, int fromDay, int fromHour, int fromMinute, boolean toNone, int toYear, int toMonth,
+                                     int toDay, int toHour, int toMinute, boolean email, boolean includeData, boolean zipData,
+                                     List<RecipientListEntryBean> recipients) {
         DwrResponseI18n response = new DwrResponseI18n();
 
         // Basic validation
@@ -232,7 +232,7 @@ public class ReportsDwr extends BaseDwr {
     }
 
     private void validateData(DwrResponseI18n response, String name, List<ReportPointVO> points, int dateRangeType,
-            int relativeDateType, int previousPeriodCount, int pastPeriodCount) {
+                              int relativeDateType, int previousPeriodCount, int pastPeriodCount) {
         if (StringUtils.isEmpty(name))
             response.addContextualMessage("name", "reports.validate.required");
         if (StringUtils.isLengthGreaterThan(name, 100))
