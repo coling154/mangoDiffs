@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe7b4994-8316-4030-ac58-e4fc680cc7c7" name="Changes" comment="made work" />
+    <list id="9cf06f9f-67ec-4347-961b-c8cb54e7b1ee" name=" Fix Password Change Bug" comment="fix" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="FR7" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SWAP_SIDES_IN_COMPARE_BRANCHES" value="true" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;coling154&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="699d893f-6e46-4087-85b1-2450748a5abb" />
+        <option name="url" value="https://github.com/coling154/mango.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="SORT_ALPHABETICALLY" value="true" />
+    <option name="SCOPE" value="All" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/com/serotonin/mango/Common.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/serotonin/mango/db/dao/PointLinkDao.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/com/serotonin/mango/db/dao/ReportDao.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+    <option name="sortByName" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2cSBzArseQI5cCXKrZRRiE683yU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "JavaMethodFindUsagesOptions.isSearchForTextOccurrences": "true",
+    "JavaVariableFindUsagesOptions.isSearchForTextOccurrences": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "ahmed",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Colin-Laptop/IdeaProjects/mango/src/com/serotonin/mango/db/dao",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.grazie",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql_aurora_aws",
+      "derby"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Colin-Laptop\IdeaProjects\mango\src\com\serotonin\mango\db\dao" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="y" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="AntRunConfiguration" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Database Script.console.sql">
+    <configuration name="console_1.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$APPLICATION_CONFIG_DIR$/consoles/db/614f5c04-da13-4185-ba6a-f2e1dcf42c29/console_1.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration name="console.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$APPLICATION_CONFIG_DIR$/consoles/db/614f5c04-da13-4185-ba6a-f2e1dcf42c29/console.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <branch name="main" repository="C:\Users\Colin-Laptop\IdeaProjects\mango" />
+      <changelist id="fe7b4994-8316-4030-ac58-e4fc680cc7c7" name="Changes" comment="" />
+      <created>1708095360754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713889775965</updated>
+      <workItem from="1708095363667" duration="2146000" />
+      <workItem from="1708097540864" duration="265000" />
+      <workItem from="1708097862884" duration="849000" />
+      <workItem from="1708104735263" duration="2441000" />
+      <workItem from="1713889776865" duration="23251000" />
+    </task>
+    <task id="LOCAL-00001" summary="Fix Password Change Bug">
+      <branch name="main" repository="C:\Users\Colin-Laptop\IdeaProjects\mango" original="true" />
+      <branch name="Fix-Password" repository="C:\Users\Colin-Laptop\IdeaProjects\mango" />
+      <changelist id="9cf06f9f-67ec-4347-961b-c8cb54e7b1ee" name=" Fix Password Change Bug" comment="" />
+      <created>1708107200516</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713889775962</updated>
+      <workItem from="1708107219854" duration="237000" />
+      <workItem from="1708107478618" duration="12339000" />
+      <workItem from="1708443036968" duration="442000" />
+      <workItem from="1708477419813" duration="1200000" />
+      <workItem from="1708960395672" duration="13000" />
+      <workItem from="1709073460117" duration="8970000" />
+      <workItem from="1709673297160" duration="2506000" />
+      <workItem from="1709734697006" duration="101000" />
+      <workItem from="1709734806409" duration="3000" />
+      <workItem from="1710170693577" duration="774000" />
+      <workItem from="1710355816405" duration="30000" />
+      <workItem from="1711491820693" duration="1289000" />
+      <workItem from="1712616288817" duration="1798000" />
+      <workItem from="1712701251566" duration="186000" />
+      <workItem from="1712758362842" duration="3218000" />
+      <workItem from="1713231402693" duration="3079000" />
+      <workItem from="1713285554104" duration="608000" />
+      <workItem from="1713558627121" duration="5129000" />
+      <workItem from="1713747111116" duration="5105000" />
+      <workItem from="1713794543930" duration="26064000" />
+      <workItem from="1713832825448" duration="12361000" />
+    </task>
+    <task id="LOCAL-00002" summary="Fixed documentation">
+      <option name="closed" value="true" />
+      <created>1708113804944</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708113804944</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Bug Fix">
+      <option name="closed" value="true" />
+      <created>1708119723985</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1708119723985</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Better Fix">
+      <option name="closed" value="true" />
+      <created>1709079214150</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709079214150</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Mega Fix">
+      <option name="closed" value="true" />
+      <created>1713831514436</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713831514436</updated>
+    </task>
+    <task id="LOCAL-00006" summary="night commit">
+      <option name="closed" value="true" />
+      <created>1713847674245</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713847674245</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fix">
+      <option name="closed" value="true" />
+      <created>1713890170960</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1713890170960</updated>
+    </task>
+    <task id="LOCAL-00008" summary="made work">
+      <option name="closed" value="true" />
+      <created>1713907970031</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1713907970031</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Fix-Password" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fixed documentation" />
+    <MESSAGE value="Bug Fix" />
+    <MESSAGE value="Better Fix" />
+    <MESSAGE value="Mega Fix" />
+    <MESSAGE value="night commit" />
+    <MESSAGE value="fix" />
+    <MESSAGE value="made work" />
+    <option name="LAST_COMMIT_MESSAGE" value="made work" />
+  </component>
+</project>
